@@ -1,5 +1,4 @@
 #######################################
-#Deloitte Assignment:                 
 #Perform Exploratory Data Analysis on  
 #2006 Pike's Peak 10k Race Analysis   
 #Author: Jeff Gross                   
